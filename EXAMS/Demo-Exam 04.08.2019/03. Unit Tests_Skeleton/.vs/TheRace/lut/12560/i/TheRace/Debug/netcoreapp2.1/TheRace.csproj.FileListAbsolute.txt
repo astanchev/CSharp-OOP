@@ -1,0 +1,8 @@
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\b\TheRace\Debug\netcoreapp2.1\TheRace.deps.json
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\b\TheRace\Debug\netcoreapp2.1\TheRace.dll
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\i\TheRace\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\i\TheRace\Debug\netcoreapp2.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\i\TheRace\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\i\TheRace\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\i\TheRace\Debug\netcoreapp2.1\TheRace.csproj.CopyComplete
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\i\TheRace\Debug\netcoreapp2.1\TheRace.dll

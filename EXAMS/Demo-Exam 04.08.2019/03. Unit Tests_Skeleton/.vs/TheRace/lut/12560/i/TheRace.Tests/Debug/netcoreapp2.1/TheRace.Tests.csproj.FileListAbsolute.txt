@@ -1,0 +1,12 @@
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.deps.json
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.runtimeconfig.json
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.runtimeconfig.dev.json
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\b\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.dll
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfoInputs.cache
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfo.cs
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.csproj.CopyComplete
+C:\Users\mr_St\OneDrive\Работен плот\Demo Exam - 04 August 2019\03. Unit Tests_Skeleton\.vs\TheRace\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.dll
