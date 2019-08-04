@@ -55,7 +55,7 @@
         {
             if (rider == null)
             {
-                throw new ArgumentNullException(ExceptionMessages.RiderInvalid);
+                throw new ArgumentNullException(nameof(rider), ExceptionMessages.RiderInvalid);
             }
 
             if (!rider.CanParticipate)
